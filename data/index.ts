@@ -174,28 +174,28 @@ export const workExperience = [
   {
     id: 1,
     title: 'Backend Engineer Intern',
-    desc: 'Assisted in the development of a web-based platform using React.js, enhancing interactivity.',
+    desc: 'Contributed to backend development of a web platform using Laravel and Node.js, focusing on database management with MySQL and API integration.',
     className: 'md:col-span-2',
     thumbnail: '/exp1.svg',
   },
   {
     id: 2,
-    title: 'Mobile App Dev - JSM Tech',
-    desc: 'Designed and developed mobile app for both iOS & Android platforms using React Native.',
+    title: 'Frontend Developer',
+    desc: 'Designed responsive web interfaces using React, Next.js, and Vue, ensuring seamless user experience across devices.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp2.svg',
   },
   {
     id: 3,
-    title: 'Freelance App Dev Project',
-    desc: 'Led the dev of a mobile app for a client, from initial concept to deployment on app stores.',
+    title: 'Freelance API Development & Data Analysis Project',
+    desc: 'Delivered custom API solutions and performed comprehensive data analysis for clients, enabling efficient data integration and actionable insights.',
     className: 'md:col-span-2', // change to md:col-span-2
     thumbnail: '/exp3.svg',
   },
   {
     id: 4,
     title: 'Lead Backend Developer',
-    desc: 'Developed and maintained user-facing features using modern frontend technologies.',
+    desc: 'Led backend development using Golang, Laravel, and Node.js, designing scalable APIs and managing MySQL databases to support user-facing features.',
     className: 'md:col-span-2',
     thumbnail: '/exp4.svg',
   },
